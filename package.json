@@ -1,0 +1,26 @@
+{
+  "name": "full-backend-zoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nqtan666/backend-express.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "tannq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nqtan666/backend-express/issues"
+  },
+  "homepage": "https://github.com/nqtan666/backend-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
